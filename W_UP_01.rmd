@@ -64,7 +64,7 @@ the probability we get is p-value 0.000009421 i think the skill players are doin
 
 
 
-i grabbed the code from the helper files for my graphical data. i edited the code to "my data" so the program can get the data from my files to input into the program, and with that it made a graph that showed the difference between skilled players and line players, the graph had at least a tiny difference from the skilled players and the line players because the skilled players had at least 20 more push ups then the line players, then i took the same code and used it for the  
+i grabbed the code from the helper files for my graphical data. i edited the code to "my data" so the program can get the data from my files to input into the program, and with that it made a graph that showed the difference between skilled players and line players, the graph had at least a tiny difference from the skilled players and the line players because the skilled players had at least 20 more push ups then the line players, then i took the same code and used it for the infarential results that show the exact ammount of how much less pushups the line players perform then the skilled.
 
 
 
